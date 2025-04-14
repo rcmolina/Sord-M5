@@ -9,7 +9,7 @@ Follow this procedure:
 or better for tzx id11 conversion:
 
 * m5tocas -b "Zac Banic (19xx)(-)[tape].cas" --casinput --debug
-* wavtotzx "Zac Banic (19xx)(-)[tape].wav" "Zac Banic (19xx)(-)[tape]_id15.tzx"
+* wavtotzx "Zac Banic (19xx)(-)[tape].wav" "Zac Banic (19xx)(-)[tape]_id11.tzx"
 
 
 
